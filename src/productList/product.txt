@@ -1,0 +1,8 @@
+id      name        price       quantity
+ 1      coke          1000.000000          2
+
+ 2      chocolate          1500.000000          5
+
+ 3      pepsi          200.000000          1
+
+ 4      honey          500.000000          3
